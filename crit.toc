@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: Crit
+## Author: kubi
+## Version: 0.0.1
+
+embeds.xml
+
+crit.lua
